@@ -1,1 +1,1 @@
-Smart contracts for Modelin protocol
+Smart contracts for BlockModel protocol
